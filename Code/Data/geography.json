@@ -1,0 +1,52 @@
+[
+  {
+    "questionText": "What is the capital of Japan?",
+    "options": [ "Seoul", "Beijing", "Tokyo", "Osaka" ],
+    "correctIndex": 2
+  },
+  {
+    "questionText": "Which river is the longest in the world?",
+    "options": [ "Amazon", "Yangtze", "Nile", "Mississippi" ],
+    "correctIndex": 2
+  },
+  {
+    "questionText": "Which country is known as the Land of the Rising Sun?",
+    "options": [ "China", "South Korea", "Japan", "Vietnam" ],
+    "correctIndex": 2
+  },
+  {
+    "questionText": "Which continent is the Sahara Desert located in?",
+    "options": [ "Africa", "Asia", "Australia", "America" ],
+    "correctIndex": 0
+  },
+  {
+    "questionText": "What is the largest ocean on Earth?",
+    "options": [ "Atlantic Ocean", "Indian Ocean", "Southern Ocean", "Pacific Ocean" ],
+    "correctIndex": 3
+  },
+  {
+    "questionText": "Which country is home to the Great Barrier Reef?",
+    "options": [ "Australia", "New Zealand", "Fiji", "Philippines" ],
+    "correctIndex": 0
+  },
+  {
+    "questionText": "Which mountain range separates Europe and Asia?",
+    "options": [ "Andes", "Himalayas", "Ural Mountains", "Rockies" ],
+    "correctIndex": 2
+  },
+  {
+    "questionText": "What is the largest country by land area?",
+    "options": [ "Canada", "USA", "Russia", "China" ],
+    "correctIndex": 2
+  },
+  {
+    "questionText": "Which city is known as the Eternal City?",
+    "options": [ "Athens", "Rome", "Paris", "Istanbul" ],
+    "correctIndex": 1
+  },
+  {
+    "questionText": "In which country is the famous Machu Picchu located?",
+    "options": [ "Mexico", "Peru", "Brazil", "Colombia" ],
+    "correctIndex": 1
+  }
+]

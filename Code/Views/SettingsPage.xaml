@@ -1,0 +1,26 @@
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="QuizGame.Views.SettingsPage"
+             Title="Settings">
+
+    <ScrollView>
+        <VerticalStackLayout Padding="30" Spacing="30">
+
+            <Label Text="🔊 Audio Settings" FontSize="24" />
+
+            <Slider x:Name="VolumeSlider"
+                    Minimum="0"
+                    Maximum="100"
+                    Value="50"
+                    ValueChanged="OnVolumeChanged"/>
+            <Label x:Name="VolumeLabel" Text="Volume: 50%" FontSize="16" />
+
+            <Label Text="Difficulty Settings" FontSize="24" />
+
+            <RadioButton x:Name="EasyRadio" Content="Easy" GroupName="Difficulty" CheckedChanged="OnDifficultyChecked" />
+            <RadioButton x:Name="MediumRadio" Content="Medium" GroupName="Difficulty" CheckedChanged="OnDifficultyChecked" />
+            <RadioButton x:Name="HardRadio" Content="Hard" GroupName="Difficulty" CheckedChanged="OnDifficultyChecked" />
+
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>

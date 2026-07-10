@@ -1,0 +1,52 @@
+[
+  {
+    "questionText": "Which country won the 2018 FIFA World Cup?",
+    "options": [ "Brazil", "Germany", "France", "Argentina" ],
+    "correctIndex": 2
+  },
+  {
+    "questionText": "Who holds the record for the most home runs in a single MLB season?",
+    "options": [ "Babe Ruth", "Barry Bonds", "Hank Aaron", "Alex Rodriguez" ],
+    "correctIndex": 1
+  },
+  {
+    "questionText": "Which tennis player has won the most Grand Slam titles in men's singles?",
+    "options": [ "Roger Federer", "Rafael Nadal", "Novak Djokovic", "Pete Sampras" ],
+    "correctIndex": 2
+  },
+  {
+    "questionText": "In which sport would you perform a slam dunk?",
+    "options": [ "Basketball", "Football", "Baseball", "Volleyball" ],
+    "correctIndex": 0
+  },
+  {
+    "questionText": "Who won the Olympic gold medal in men's 100 meters at the 2008 Beijing Olympics?",
+    "options": [ "Michael Johnson", "Usain Bolt", "Carl Lewis", "Tyson Gay" ],
+    "correctIndex": 1
+  },
+  {
+    "questionText": "Which country is the birthplace of rugby?",
+    "options": [ "England", "Australia", "New Zealand", "South Africa" ],
+    "correctIndex": 0
+  },
+  {
+    "questionText": "What is the maximum number of players allowed on the field for each team in American football?",
+    "options": [ "11", "12", "15", "7" ],
+    "correctIndex": 0
+  },
+  {
+    "questionText": "Who is known as 'The King of Soccer'?",
+    "options": [ "Diego Maradona", "Lionel Messi", "Pele", "Cristiano Ronaldo" ],
+    "correctIndex": 2
+  },
+  {
+    "questionText": "Which country has won the most Olympic gold medals in basketball?",
+    "options": [ "USA", "Soviet Union", "China", "Brazil" ],
+    "correctIndex": 0
+  },
+  {
+    "questionText": "In which sport would you perform a triple axel?",
+    "options": [ "Figure Skating", "Gymnastics", "Diving", "Swimming" ],
+    "correctIndex": 0
+  }
+]

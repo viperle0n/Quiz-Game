@@ -1,0 +1,52 @@
+[
+  {
+    "questionText": "Who is known as the King of Pop?",
+    "options": [ "Elvis Presley", "Michael Jackson", "Prince", "Madonna" ],
+    "correctIndex": 1
+  },
+  {
+    "questionText": "Which band recorded the album 'Abbey Road'?",
+    "options": [ "The Rolling Stones", "The Beatles", "Led Zeppelin", "Pink Floyd" ],
+    "correctIndex": 1
+  },
+  {
+    "questionText": "What year was Beyoncé's album 'Lemonade' released?",
+    "options": [ "2015", "2016", "2017", "2018" ],
+    "correctIndex": 1
+  },
+  {
+    "questionText": "Which famous composer wrote 'The Four Seasons'?",
+    "options": [ "Beethoven", "Mozart", "Vivaldi", "Bach" ],
+    "correctIndex": 2
+  },
+  {
+    "questionText": "Who is the lead singer of Coldplay?",
+    "options": [ "Chris Martin", "Jonny Buckland", "Will Champion", "Guy Berryman" ],
+    "correctIndex": 0
+  },
+  {
+    "questionText": "Which instrument does a pianist play?",
+    "options": [ "Guitar", "Piano", "Drums", "Violin" ],
+    "correctIndex": 1
+  },
+  {
+    "questionText": "What genre of music is Taylor Swift primarily known for?",
+    "options": [ "Pop", "Rock", "Country", "Jazz" ],
+    "correctIndex": 2
+  },
+  {
+    "questionText": "Which artist is known for the song 'Rolling in the Deep'?",
+    "options": [ "Adele", "Lady Gaga", "Rihanna", "Beyoncé" ],
+    "correctIndex": 0
+  },
+  {
+    "questionText": "Which city is home to the famous music festival Coachella?",
+    "options": [ "Los Angeles", "New York", "Chicago", "Indio" ],
+    "correctIndex": 3
+  },
+  {
+    "questionText": "Who was the lead guitarist of The Jimi Hendrix Experience?",
+    "options": [ "Eric Clapton", "Jimi Hendrix", "Jimmy Page", "Keith Richards" ],
+    "correctIndex": 1
+  }
+]

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="QuizGame.Views.MainMenuPage"
+             Title="Quiz Game">
+
+    <Grid>
+        <!-- Background image -->
+        <Image Source="quizbackgroundimage.png"
+               Aspect="AspectFill"/>
+
+        <!-- Buttons -->
+        <VerticalStackLayout Padding="30"
+                             Spacing="20"
+                             VerticalOptions="Center">
+
+            <Label Text="Quiz Game"
+                   FontSize="32"
+                   HorizontalOptions="Center" />
+
+            <Image x:Name="AvatarImage"
+                   HeightRequest="80"
+                   WidthRequest="80"
+                   Margin="0,10"
+                   Aspect="AspectFit"
+                   HorizontalOptions="Center" />
+
+            <Label x:Name="WelcomeLabel"
+                   FontSize="16"
+                   HorizontalOptions="Center"
+                   TextColor="Gray" />
+
+            <Button Text="Play" Clicked="OnPlayClicked"/>
+            <Button Text="Settings" Clicked="OnSettingsClicked"/>
+            <Button x:Name="LoginButton" Text="Login / Signup" Clicked="OnLoginSignupClicked"/>
+            <Button x:Name="LogoutButton"
+                    Text="Log Out"
+                    Clicked="OnLogoutClicked"
+                    IsVisible="False"
+                    BackgroundColor="DarkRed"
+                    TextColor="White" />
+            <Button Text="❌ Exit" Clicked="OnExitClicked"/>
+        </VerticalStackLayout>
+    </Grid>
+</ContentPage>

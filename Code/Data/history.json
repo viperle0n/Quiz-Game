@@ -1,0 +1,52 @@
+[
+  {
+    "questionText": "Who was the first President of the United States?",
+    "options": [ "Abraham Lincoln", "Thomas Jefferson", "George Washington", "John Adams" ],
+    "correctIndex": 2
+  },
+  {
+    "questionText": "In which year did World War II end?",
+    "options": [ "1940", "1945", "1950", "1939" ],
+    "correctIndex": 1
+  },
+  {
+    "questionText": "Which ancient civilization built the pyramids?",
+    "options": [ "Romans", "Greeks", "Egyptians", "Persians" ],
+    "correctIndex": 2
+  },
+  {
+    "questionText": "Who was the dictator of Germany during World War II?",
+    "options": [ "Joseph Stalin", "Adolf Hitler", "Benito Mussolini", "Winston Churchill" ],
+    "correctIndex": 1
+  },
+  {
+    "questionText": "What was the name of the ship on which the Pilgrims traveled to America in 1620?",
+    "options": [ "Santa Maria", "Mayflower", "Endeavour", "Beagle" ],
+    "correctIndex": 1
+  },
+  {
+    "questionText": "The Cold War was mainly between which two superpowers?",
+    "options": [ "USA and Germany", "USA and China", "USA and USSR", "USA and Japan" ],
+    "correctIndex": 2
+  },
+  {
+    "questionText": "Which wall famously fell in 1989?",
+    "options": [ "Great Wall of China", "Berlin Wall", "Hadrian's Wall", "Wailing Wall" ],
+    "correctIndex": 1
+  },
+  {
+    "questionText": "Who was the first man to step on the Moon?",
+    "options": [ "Buzz Aldrin", "Neil Armstrong", "Yuri Gagarin", "Michael Collins" ],
+    "correctIndex": 1
+  },
+  {
+    "questionText": "The Renaissance began in which country?",
+    "options": [ "France", "Italy", "Germany", "England" ],
+    "correctIndex": 1
+  },
+  {
+    "questionText": "What was the name of the first permanent English settlement in America?",
+    "options": [ "Plymouth", "Jamestown", "Salem", "New Amsterdam" ],
+    "correctIndex": 1
+  }
+]

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="QuizGame.CategoryPage"
+             Title="Quiz Game">
+
+    <Grid>
+
+        <!-- Background image -->
+        <Image Source="quizbackgroundimage.png"
+               Aspect="AspectFill"/>
+
+        <!-- Buttons -->
+        <VerticalStackLayout Padding="20" Spacing="15">
+
+            <Label Text="Choose a Category" 
+                   FontSize="24"
+                   HorizontalOptions="Center"
+                   Margin="0,40,0,20"/>
+
+            <Button Text="History" Clicked="OnCategoryClicked" CommandParameter="history"/>
+            <Button Text="Geography" Clicked="OnCategoryClicked" CommandParameter="geography"/>
+            <Button Text="Music" Clicked="OnCategoryClicked" CommandParameter="music"/>
+            <Button Text="Sports" Clicked="OnCategoryClicked" CommandParameter="sports"/>
+        </VerticalStackLayout>
+
+    </Grid>
+</ContentPage>
