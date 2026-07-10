@@ -1,0 +1,86 @@
+[
+  {
+    "ContainingType": "QuizGameAPI.Controllers.TestController",
+    "Method": "TestDatabaseConnection",
+    "RelativePath": "api/Test/dbtest",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QuizGameAPI.Controllers.UsersController",
+    "Method": "GetLeaderboard",
+    "RelativePath": "api/Users/leaderboard/{category}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "category",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QuizGameAPI.Controllers.UsersController",
+    "Method": "Login",
+    "RelativePath": "api/Users/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userDto",
+        "Type": "QuizGameAPI.Controllers.UsersController\u002BUserDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QuizGameAPI.Controllers.UsersController",
+    "Method": "Register",
+    "RelativePath": "api/Users/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userDto",
+        "Type": "QuizGameAPI.Controllers.UsersController\u002BUserDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QuizGameAPI.Controllers.UsersController",
+    "Method": "TestConnection",
+    "RelativePath": "api/Users/test",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QuizGameAPI.Controllers.UsersController",
+    "Method": "UpdateCategoryHighscore",
+    "RelativePath": "api/Users/update-category-highscore",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "QuizGameAPI.Controllers.UsersController\u002BUpdateCategoryHighscoreDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

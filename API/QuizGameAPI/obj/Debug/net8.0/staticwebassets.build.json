@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "26aw9aN3os3kMh5V1hRQ5aoJUNt9m/hRDayuEUrpLQA=",
+  "Source": "QuizGameAPI",
+  "BasePath": "_content/QuizGameAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
